@@ -8,6 +8,34 @@
   </p>
 </div>
 
+```text
+               *%%%%XXhks+               ayush@JSS-Bangalore ----------------------------------
+             .%@#%##@@@####*             OS ............... macOS (Darwin arm64)
+             #X-.....-+---*%h            Role ............. Full-Stack & Backend Engineer
+            *#-::-:.       .h-           College .......... JSS Acad. of Tech. Education, B'lore
+            k%+-:..       ::-k           Status ........... CS & Engineering Undergrad
+            *%--*khh*----:..-%.
+            :h-k%#@@#ss#W@%k-h           - Experience & Highlights ----------------------------
+           ***-*skXXk: h#@@Wk:           Achievement ...... Shortlisted - 48h Int. Hackathon @ NHCE
+           hXs...::-:   +*+--+*          Building ......... Full-Stack Apps (Next.js & Node.js)
+           -hs-::::-++---.   sk          Open For ......... Hackathons & Engineering Collabs
+            -kk***s*s@@#+ss**s:
+             .Xhkk#%hhXXX#XhX:           - Tech Stack -----------------------------------------
+              k@XhkshXXXX%%@+            Languages ........ TypeScript, JavaScript, Python, Java, C
+              +@@#Xkkhhs*%Wh             Frameworks ....... Next.js, React, Node.js, Tailwind CSS
+             .*k@WW@@####@@              Tools & Cloud .... Git, GitHub, Docker, Vercel
+           .+XXsk%@WWWWWW@h:
+       :+shX%%@#hkX#@@@@%kkX:            - Featured Projects ----------------------------------
+ .:+*skXXXXX%##@@%hX%%%XkkX%hks+         HH_GOA ........... Full-stack web app (Next.js, TS)
+*skhhhhhhXXX%##@@W@Xhhksk%%Xhhhhks-.     Referease ........ Referral marketplace platform (React, Node)
+hXXhhXhhhX%%%###@WW@h++s##XXXhhhkhkks-   VigilOS .......... System & OS-level collaborative project
+%%#%XX%XX%%%####@@@@W*s@@%%%XhhXhkXXXX
+#%###%X%%%%%########%#@@%XXXhhhhXX%%@#   - Contact & Socials ----------------------------------
+@#%#@##%%%%%######%%@@#%XXXXXhhX%X%#@@   Email ............ ayushkrj01@gmail.com
+W@##@@@#########%%%##%X%XXXXXXX%%#%#@@   LinkedIn ......... linkedin.com/in/ayush-kumar-967346410/
+@W@@@@@@@########X%@#%%%%%%%%%%##@@@@@   GitHub ........... github.com/Ayushkjh01
+```
+
 ---
 
 ### 🚀 About Me
