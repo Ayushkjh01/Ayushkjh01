@@ -14,7 +14,7 @@
 
 - 🎓 **Education**: Computer Science & Engineering Undergrad at **JSS Academy of Technical Education, Bangalore**.
 - 💻 **Focus**: Full-Stack Web Development, Robust Backend Systems & Scalable Architectures.
-- 🛠️ **Currently Building**: Full-stack applications with Next.js, TypeScript & Spring Boot.
+- 🛠️ **Currently Building**: Full-stack applications with Next.js, TypeScript & Node.js.
 - 🤝 **Collaboration**: Excited to collaborate on hackathons, open-source projects, and high-impact engineering ideas!
 
 ---
@@ -32,7 +32,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 #### **Tools & Platforms**
