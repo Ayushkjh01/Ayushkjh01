@@ -21,15 +21,15 @@
      \________________________/   (___) |   Open For ......... Hackathons & Engineering Collabs
     [==========================]        |
   --------------------------------------|   - Tech Stack -----------------------------------------
-  | [Esc] [F1-F12]          [Bksp]     |    Languages ........ TypeScript, JavaScript, Python, Java, C
-  | [Tab]  Q  W  E  R  T  Y  [Enter]   |    Frameworks ....... Next.js, React, Node.js, Tailwind CSS
-  | [Caps] A  S  D  F  G  H  [Shift]   |    Tools & Cloud .... Git, GitHub, Docker, Vercel
-  | [Shift] Z  X  C  V  B  N [Ctrl]    |
-  | [Ctrl] [Cmd] [  SPACE  ] [Alt]     |    - Featured Projects ----------------------------------
+  | [esc]  [F1-F12]            [delete] |   Languages ........ TypeScript, JavaScript, Python, Java, C
+  | [tab]   Q  W  E  R  T  Y   [return] |   Frameworks ....... Next.js, React, Node.js, Tailwind CSS
+  | [caps]  A  S  D  F  G  H   [return] |   Tools & Cloud .... Git, GitHub, Docker, Vercel
+  | [shift]  Z  X  C  V  B  N   [shift] |
+  | [fn] [ctrl] [opt ⌥] [cmd ⌘] [SPACE] |   - Featured Projects ----------------------------------
   ======================================    HH_GOA ........... Full-stack web app (Next.js, TS)
    \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\      Referease ........ Referral marketplace platform (React, Node)
     ===================================     VigilOS .......... System & OS-level collaborative project
-    | Developer Workstation // Lab    |
+    | MacBook Pro Workstation // Lab   |
     -----------------------------------     - Contact & Socials ----------------------------------
                                             Email ............ ayushkrj01@gmail.com
                                             LinkedIn ......... linkedin.com/in/ayush-kumar-967346410/
