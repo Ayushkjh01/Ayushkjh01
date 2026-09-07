@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **Education**: Computer Science & Engineering Undergraduate.
+- 🎓 **Education**: Computer Science & Engineering Undergrad at **JSS Academy of Technical Education, Bangalore**.
 - 💻 **Focus**: Full-Stack Web Development, Robust Backend Systems & Scalable Architectures.
 - 🛠️ **Currently Building**: Full-stack applications with Next.js, TypeScript & Spring Boot.
 - 🤝 **Collaboration**: Excited to collaborate on hackathons, open-source projects, and high-impact engineering ideas!
