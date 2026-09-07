@@ -9,31 +9,31 @@
 </div>
 
 ```text
-               -X@@@@@@#%Xsi:               ayush@JSS-Bangalore ----------------------------------
-              .sWWWWWWWWWWW@WWX:             OS ............... macOS (Darwin arm64)
-              #Wsi====i*X%%X%#WWr            Role ............. Full-Stack & Backend Engineer
-             sWr:··:·.        ·*W=           College .......... JSS Acad. of Tech. Education, B'lore
-             @#i+===-:·.    .·· r#           Status ........... CS & Engineering Undergrad
-             @#i==:··.   .   .--:#=
-             #%+-+*XXXs+====-·.:-#*          - Experience & Highlights ----------------------------
-             *s-*@WWWWW@X#WWW@Xi-Xi          Achievement ...... Shortlisted - 48h Int. Hackathon @ NHCE
-           ·-i*=s%%#W@@X·=@W@WWWsi.          Building ......... Full-Stack Apps (Next.js & Node.js)
-           X@#i---+*s*i=  +%#@@%s+·.         Open For ......... Hackathons & Engineering Collabs
-           i#@r:·...·-=:   =::. .=@r
-           .XXX+======+*s*r+=·..·r@-         - Tech Stack -----------------------------------------
-            ·i#%****sr*WWWWi*%ssrs*          Languages ........ TypeScript, JavaScript, Python, Java, C
-              =@#%X%WW######@W@@Wi           Frameworks ....... Next.js, React, Node.js, Tailwind CSS
-               sWW@##%#%XX%W@@@Ws            Tools & Cloud .... Git, GitHub, Docker, Vercel
-               rW@W@#XX%##Xs#WW#
-               r#W@WW##%##Xs#W@·             - Featured Projects ----------------------------------
-              iss@WWWWWWWWWWWWX              HH_GOA ........... Full-stack web app (Next.js, TS)
-           :isW#XX#@W@@@@@@@W@X-             Referease ........ Referral marketplace platform (React, Node)
-      ·-rX%@WW@WW#%#@WWWW@WW@X##-.           VigilOS .......... System & OS-level collaborative project
-.:=i*X#W@@@@@@W@WW@@@WWWWW@#%%#@%Xs+·
-sX%%##@@#@@@@WWWW@WWW@@@@@#%#@@@#X#@%s+:     - Contact & Socials ----------------------------------
-###@@###@WW@@WWWWWWW@@%Xs**X@@@@###X%#@%si   Email ............ ayushkrj01@gmail.com
-                                             LinkedIn ......... linkedin.com/in/ayush-kumar-967346410/
-                                             GitHub ........... github.com/Ayushkjh01
+       .----------------------------.       ayush@JSS-Bangalore ----------------------------------
+      /  ________________________  /|       OS ............... macOS (Darwin arm64)
+     /  /  >_ npm run dev        / / |      Role ............. Full-Stack & Backend Engineer
+    /  /  [+] Building apps...   / /  |     College .......... JSS Acad. of Tech. Education, B'lore
+   /  /  const dev = new Dev();  / /   |    Status ........... CS & Engineering Undergrad
+  /  /  dev.code({ mode: 100 });/ /    |
+ /  /    console.log('Ready!'); / /     |   - Experience & Highlights ----------------------------
+/  /___________________________/ /      |   Achievement ...... Shortlisted - 48h Int. Hackathon @ NHCE
+|______________________________|/ (☕)  |    Building ......... Full-Stack Apps (Next.js & Node.js)
+     \________________________/   (___) |   Open For ......... Hackathons & Engineering Collabs
+    [==========================]        |
+  --------------------------------------|   - Tech Stack -----------------------------------------
+  | [Esc] [F1-F12]          [Bksp]     |    Languages ........ TypeScript, JavaScript, Python, Java, C
+  | [Tab]  Q  W  E  R  T  Y  [Enter]   |    Frameworks ....... Next.js, React, Node.js, Tailwind CSS
+  | [Caps] A  S  D  F  G  H  [Shift]   |    Tools & Cloud .... Git, GitHub, Docker, Vercel
+  | [Shift] Z  X  C  V  B  N [Ctrl]    |
+  | [Ctrl] [Cmd] [  SPACE  ] [Alt]     |    - Featured Projects ----------------------------------
+  ======================================    HH_GOA ........... Full-stack web app (Next.js, TS)
+   \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\      Referease ........ Referral marketplace platform (React, Node)
+    ===================================     VigilOS .......... System & OS-level collaborative project
+    | Developer Workstation // Lab    |
+    -----------------------------------     - Contact & Socials ----------------------------------
+                                            Email ............ ayushkrj01@gmail.com
+                                            LinkedIn ......... linkedin.com/in/ayush-kumar-967346410/
+                                            GitHub ........... github.com/Ayushkjh01
 ```
 
 ---
