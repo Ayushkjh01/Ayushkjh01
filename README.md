@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="assets/avatar.jpg" alt="Ayush" width="160" style="border-radius: 50%;" />
   <h1>Hi there, I'm <a href="https://github.com/Ayushkjh01">Ayush</a> 👋</h1>
   <p><strong>Computer Science & Engineering Undergrad | Full-Stack & Backend Engineer | Hackathon Enthusiast</strong></p>
 
