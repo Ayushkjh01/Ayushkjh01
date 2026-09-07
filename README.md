@@ -14,6 +14,7 @@
 
 - 🎓 **Education**: Computer Science & Engineering Undergrad at **JSS Academy of Technical Education, Bangalore**.
 - 💻 **Focus**: Full-Stack Web Development, Robust Backend Systems & Scalable Architectures.
+- 🏆 **Highlight**: Shortlisted & competed in a **48-hour International Hackathon** at New Horizon College of Engineering.
 - 🛠️ **Currently Building**: Full-stack applications with Next.js, TypeScript & Node.js.
 - 🤝 **Collaboration**: Excited to collaborate on hackathons, open-source projects, and high-impact engineering ideas!
 
