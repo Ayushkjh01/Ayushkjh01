@@ -81,21 +81,6 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushkjh01&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ayush's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkjh01&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="170" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushkjh01&theme=dark&hide_border=true" alt="GitHub Streak" height="170" />
-</div>
-
----
-
 ### 📫 Connect With Me
 
 <div align="center">
